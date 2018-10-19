@@ -5,7 +5,6 @@ date: 2018-10-19 09:26:38 +0000
 sub_heading: Looking good
 banner_image: "/uploads/2018/10/19/6e374437-475a-49ed-b9fe-77a43af2eb12_5.jpg"
 slug: Slug1
-published: false
 
 ---
 # Lorem Lorem
